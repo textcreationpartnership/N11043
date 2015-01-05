@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:013993_0000_0F9259244AD4FAD0"/>
-            <pb facs="tcp:013993_0001_0F92592639601470"/>
+            <pb facs="unknown:013993_0000_0F9259244AD4FAD0"/>
+            <pb facs="unknown:013993_0001_0F92592639601470"/>
             <head>THE CRISIS. NUMBER XXVII.</head>
             <head type="sub">TO THE KING.</head>
             <epigraph>
@@ -146,7 +146,7 @@
                <l>See Britiſh legions reeking from the ſword</l>
                <l>Of worthleſs Britons, and their miſled Lord,</l>
                <l>
-                  <pb n="222" facs="tcp:013993_0002_0F925926A9D6B568"/>
+                  <pb n="222" facs="unknown:013993_0002_0F925926A9D6B568"/>
 The orphan'd ſon, the helpleſs mother ſee,</l>
                <l>Plung'd in the depths of awful miſery.</l>
                <l>Youth and hoary age lie whelt'ring on the plains,</l>
@@ -186,7 +186,7 @@ The orphan'd ſon, the helpleſs mother ſee,</l>
                <l>"The weakeſt Athieſt wretch all Heav'n defies,</l>
                <l>Who ſhrinks and ſhudders when the thunder flies."</l>
                <l>
-                  <pb n="223" facs="tcp:013993_0003_0F925927D0A45870"/>
+                  <pb n="223" facs="unknown:013993_0003_0F925927D0A45870"/>
 So ſhrunk the tyrant, when Fitzwalter led,</l>
                <l>His warlike cohorts on to Runny Mead,</l>
                <l>Then ancient Windſor's lofty towr's beheld,</l>
@@ -228,7 +228,7 @@ So ſhrunk the tyrant, when Fitzwalter led,</l>
                <l>Illuſtrious ſhades the faithful muſe ſhall crown,</l>
                <l>Your glorious names, with honour and renown,</l>
                <l>
-                  <pb n="224" facs="tcp:013993_0004_0F92592824AF01A8"/>
+                  <pb n="224" facs="unknown:013993_0004_0F92592824AF01A8"/>
 Long as this world with all its ſplendor ſtands,</l>
                <l>Stupendeous frame, rais'd by immortal hands.</l>
                <l>Long as the annals of eternal fame,</l>
@@ -268,7 +268,7 @@ Long as this world with all its ſplendor ſtands,</l>
                <l>Again conſent to let a tyrant live.</l>
             </lg>
             <lg>
-               <pb n="225" facs="tcp:013993_0005_0F925928C36C1558"/>
+               <pb n="225" facs="unknown:013993_0005_0F925928C36C1558"/>
                <l>But dare not trifle with a moment given,</l>
                <l>Preſumptous Prince, nor ſpurn with awful heaven,</l>
                <l>Think not that Britons paſſive will remain,</l>
@@ -307,7 +307,7 @@ Long as this world with all its ſplendor ſtands,</l>
                <l>Tells them his firm, his ſteady ſoul retains</l>
                <l>Its iron purpoſe, and his heart remains</l>
                <l>
-                  <pb n="226" facs="tcp:013993_0006_0F9259298DC72D08"/>
+                  <pb n="226" facs="unknown:013993_0006_0F9259298DC72D08"/>
 Inflexible, determin'd to enſlave,</l>
                <l>And murder thouſands he had ſworn to ſave.</l>
                <l>Remember Prince, the throne to George was giv'n,</l>
@@ -339,7 +339,7 @@ Inflexible, determin'd to enſlave,</l>
                <l>Say can you meet Omnipotence in arms.</l>
             </lg>
             <lg>
-               <pb n="227" facs="tcp:013993_0007_0F92592A6CBA0AF0"/>
+               <pb n="227" facs="unknown:013993_0007_0F92592A6CBA0AF0"/>
                <l>But hark, they call you from the realms of dead,</l>
                <l>The dauntleſs ſouls that for their country bled,</l>
                <l>At Concord<note n="*" place="bottom">
